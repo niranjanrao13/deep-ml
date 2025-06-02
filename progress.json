@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T08:44:18.033Z",
+  "generated_at": "2026-11-09T08:44:20.247Z",
   "items": {
     "problem:3": {
       "kind": "problem",
@@ -104,6 +104,97 @@
       "last_pushed_at": "2025-06-01T08:32:47.959Z",
       "language": "python",
       "lines": 4
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2025-06-02T16:40:12.216Z",
+      "last_pushed_at": "2025-06-02T16:40:12.216Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2025-06-02T16:56:35.218Z",
+      "last_pushed_at": "2025-06-02T16:56:35.218Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2025-06-02T16:59:58.950Z",
+      "last_pushed_at": "2025-06-02T16:59:58.950Z",
+      "language": "python",
+      "lines": 2
+    },
+    "problem:52": {
+      "kind": "problem",
+      "id": "52",
+      "title": "Implement Recall Metric in Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/52",
+      "path": "problems/0052-implement-recall-metric-in-binary-classification",
+      "first_solved_at": "2025-06-02T17:25:03.712Z",
+      "last_pushed_at": "2025-06-02T17:25:03.712Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2025-06-02T17:28:35.554Z",
+      "last_pushed_at": "2025-06-02T17:28:35.554Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2025-06-02T17:31:35.584Z",
+      "last_pushed_at": "2025-06-02T17:31:35.584Z",
+      "language": "python",
+      "lines": 2
+    },
+    "problem:69": {
+      "kind": "problem",
+      "id": "69",
+      "title": "Calculate R-squared for Regression Analysis",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/69",
+      "path": "problems/0069-calculate-r-squared-for-regression-analysis",
+      "first_solved_at": "2025-06-02T17:53:01.083Z",
+      "last_pushed_at": "2025-06-02T17:53:01.083Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
