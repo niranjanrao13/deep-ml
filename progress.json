@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T08:44:20.247Z",
+  "generated_at": "2026-11-09T08:44:22.114Z",
   "items": {
     "problem:3": {
       "kind": "problem",
@@ -195,6 +195,45 @@
       "last_pushed_at": "2025-06-02T17:53:01.083Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2025-06-03T02:09:27.210Z",
+      "last_pushed_at": "2025-06-03T02:09:27.210Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2025-06-03T02:16:27.367Z",
+      "last_pushed_at": "2025-06-03T02:16:27.367Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:13": {
+      "kind": "problem",
+      "id": "13",
+      "title": "Determinant of a 4x4 Matrix using Laplace's Expansion (hard)",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/13",
+      "path": "problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard",
+      "first_solved_at": "2025-06-03T02:22:11.823Z",
+      "last_pushed_at": "2025-06-03T02:22:11.823Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
