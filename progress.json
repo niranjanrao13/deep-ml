@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T08:44:22.114Z",
+  "generated_at": "2026-11-09T08:44:23.994Z",
   "items": {
     "problem:3": {
       "kind": "problem",
@@ -234,6 +234,58 @@
       "last_pushed_at": "2025-06-03T02:22:11.823Z",
       "language": "python",
       "lines": 5
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2025-06-06T10:42:15.573Z",
+      "last_pushed_at": "2025-06-06T10:42:15.573Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2025-06-06T10:47:23.344Z",
+      "last_pushed_at": "2025-06-06T10:47:23.344Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2025-06-06T10:53:50.742Z",
+      "last_pushed_at": "2025-06-06T10:53:50.742Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:75": {
+      "kind": "problem",
+      "id": "75",
+      "title": "Generate a Confusion Matrix for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/75",
+      "path": "problems/0075-generate-a-confusion-matrix-for-binary-classification",
+      "first_solved_at": "2025-06-06T11:31:35.191Z",
+      "last_pushed_at": "2025-06-06T11:31:35.191Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
