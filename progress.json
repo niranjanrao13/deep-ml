@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T08:44:23.994Z",
+  "generated_at": "2026-11-09T08:44:25.740Z",
   "items": {
     "problem:3": {
       "kind": "problem",
@@ -286,6 +286,32 @@
       "last_pushed_at": "2025-06-06T11:31:35.191Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:27": {
+      "kind": "problem",
+      "id": "27",
+      "title": "Transformation Matrix from Basis B to C",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/27",
+      "path": "problems/0027-transformation-matrix-from-basis-b-to-c",
+      "first_solved_at": "2025-06-08T10:17:31.115Z",
+      "last_pushed_at": "2025-06-08T10:17:31.115Z",
+      "language": "python",
+      "lines": 3
+    },
+    "problem:39": {
+      "kind": "problem",
+      "id": "39",
+      "title": "Implementation of Log Softmax Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/39",
+      "path": "problems/0039-implementation-of-log-softmax-function",
+      "first_solved_at": "2025-06-08T10:29:43.705Z",
+      "last_pushed_at": "2025-06-08T10:29:43.705Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
